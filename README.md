@@ -1,2 +1,2 @@
-# Golang Test
-Moocking http server with `httptest.NewServer`# mocktest
+# Golang Test | learning golang
+Mocking http server with `httptest.NewServer`
